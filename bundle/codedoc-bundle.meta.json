@@ -2,110 +2,110 @@
   "init": [
     {
       "name": "initJssCs",
-      "filename": "/home/runner/work/coding-blog-boilerplate/coding-blog-boilerplate/.codedoc/node_modules/@codedoc/core/dist/es6/transport/setup-jss.js",
-      "hash": "IqouqluK5qw5x2pKYvTjjw=="
+      "filename": "/home/runner/work/mark.coding.blog/mark.coding.blog/.codedoc/node_modules/@codedoc/core/dist/es6/transport/setup-jss.js",
+      "hash": "aZuDo90/7/dzVbUQjazP4A=="
     },
     {
       "name": "installTheme",
-      "filename": "/home/runner/work/coding-blog-boilerplate/coding-blog-boilerplate/.codedoc/content/theme.ts",
-      "hash": "J4XKArQiLsj74Ir7StkPRw=="
+      "filename": "/home/runner/work/mark.coding.blog/mark.coding.blog/.codedoc/content/theme.ts",
+      "hash": "vmzxYlYaxwIZSHPCc39qmg=="
     },
     {
       "name": "countCards",
-      "filename": "/home/runner/work/coding-blog-boilerplate/coding-blog-boilerplate/.codedoc/node_modules/@codedoc/coding-blog-plugin/dist/es5/components/article-card/count-cards.js",
-      "hash": "cYWtzTMoX1BezR/MtRUF6w=="
+      "filename": "/home/runner/work/mark.coding.blog/mark.coding.blog/.codedoc/node_modules/@codedoc/coding-blog-plugin/dist/es5/components/article-card/count-cards.js",
+      "hash": "ghMkkrWikMa/wGSHvJe5aQ=="
     },
     {
       "name": "codeSelection",
-      "filename": "/home/runner/work/coding-blog-boilerplate/coding-blog-boilerplate/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/selection.js",
-      "hash": "LNdmWnkRoOe+Ir5OJFE8sg=="
+      "filename": "/home/runner/work/mark.coding.blog/mark.coding.blog/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/selection.js",
+      "hash": "RCFmm2XFMP0RNSJUB0vvxQ=="
     },
     {
       "name": "sameLineLengthInCodes",
-      "filename": "/home/runner/work/coding-blog-boilerplate/coding-blog-boilerplate/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/same-line-length.js",
-      "hash": "gLxhqMZR+JAoJ/SSjDoWRA=="
+      "filename": "/home/runner/work/mark.coding.blog/mark.coding.blog/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/same-line-length.js",
+      "hash": "WB33Rcv89PH6431xz6BMiA=="
     },
     {
       "name": "initHintBox",
-      "filename": "/home/runner/work/coding-blog-boilerplate/coding-blog-boilerplate/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-hint/index.js",
-      "hash": "reVY80t0l17t/P7hAtKSEQ=="
+      "filename": "/home/runner/work/mark.coding.blog/mark.coding.blog/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-hint/index.js",
+      "hash": "b1bw/jJw57ssg274hyKoYw=="
     },
     {
       "name": "initCodeLineRef",
-      "filename": "/home/runner/work/coding-blog-boilerplate/coding-blog-boilerplate/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-ref/index.js",
-      "hash": "O0YM1z/G1tutaLA5Y5D9wQ=="
+      "filename": "/home/runner/work/mark.coding.blog/mark.coding.blog/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-ref/index.js",
+      "hash": "4wkSvcrvzYr5UQLSZwZ/Wg=="
     },
     {
       "name": "initSmartCopy",
-      "filename": "/home/runner/work/coding-blog-boilerplate/coding-blog-boilerplate/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/smart-copy.js",
-      "hash": "SnDRHZCmW65y/LAzvQSvxw=="
+      "filename": "/home/runner/work/mark.coding.blog/mark.coding.blog/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/smart-copy.js",
+      "hash": "dMoWvoxa8KYf9cg6yzeiWA=="
     },
     {
       "name": "copyHeadings",
-      "filename": "/home/runner/work/coding-blog-boilerplate/coding-blog-boilerplate/.codedoc/node_modules/@codedoc/core/dist/es6/components/heading/copy-headings.js",
-      "hash": "IiEMynyLOAEx3nxotwd2sw=="
+      "filename": "/home/runner/work/mark.coding.blog/mark.coding.blog/.codedoc/node_modules/@codedoc/core/dist/es6/components/heading/copy-headings.js",
+      "hash": "TZhj6aIjDy0GgOCjbglekA=="
     },
     {
       "name": "contentNavHighlight",
-      "filename": "/home/runner/work/coding-blog-boilerplate/coding-blog-boilerplate/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/contentnav/highlight.js",
-      "hash": "4LvEp3YnQ50xa9aPvB6fJg=="
+      "filename": "/home/runner/work/mark.coding.blog/mark.coding.blog/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/contentnav/highlight.js",
+      "hash": "H2YOG5rB8aPkC2jj83KxhA=="
     },
     {
       "name": "loadDeferredIFrames",
-      "filename": "/home/runner/work/coding-blog-boilerplate/coding-blog-boilerplate/.codedoc/node_modules/@codedoc/core/dist/es6/transport/deferred-iframe.js",
-      "hash": "yZGNLxRf0ELhjedU3pdVSw=="
+      "filename": "/home/runner/work/mark.coding.blog/mark.coding.blog/.codedoc/node_modules/@codedoc/core/dist/es6/transport/deferred-iframe.js",
+      "hash": "+RuvvKfBTP6sEZ0Sljt+nA=="
     },
     {
       "name": "smoothLoading",
-      "filename": "/home/runner/work/coding-blog-boilerplate/coding-blog-boilerplate/.codedoc/node_modules/@codedoc/core/dist/es6/transport/smooth-loading.js",
-      "hash": "Cgz4h19HdOzv8FVt/UhckA=="
+      "filename": "/home/runner/work/mark.coding.blog/mark.coding.blog/.codedoc/node_modules/@codedoc/core/dist/es6/transport/smooth-loading.js",
+      "hash": "GV5Pd78HTOv/WsjCRElSiQ=="
     },
     {
       "name": "tocHighlight",
-      "filename": "/home/runner/work/coding-blog-boilerplate/coding-blog-boilerplate/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toc-highlight.js",
-      "hash": "cUsThsQaoDOlCPz5MrQG9Q=="
+      "filename": "/home/runner/work/mark.coding.blog/mark.coding.blog/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toc-highlight.js",
+      "hash": "jk+rpzqYEmHxghJ252dAoQ=="
     },
     {
       "name": "postNavSearch",
-      "filename": "/home/runner/work/coding-blog-boilerplate/coding-blog-boilerplate/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/search/post-nav/index.js",
-      "hash": "CJsIfJtX93DxRBe7by7xWQ=="
+      "filename": "/home/runner/work/mark.coding.blog/mark.coding.blog/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/search/post-nav/index.js",
+      "hash": "/bFwcCJA5FU3uSpT9I0Z4g=="
     }
   ],
   "components": [
     {
       "name": "ToCToggle",
-      "filename": "/home/runner/work/coding-blog-boilerplate/coding-blog-boilerplate/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toggle/index.js",
-      "hash": "PsgqAhHaTlIADaHukhodzQ=="
+      "filename": "/home/runner/work/mark.coding.blog/mark.coding.blog/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toggle/index.js",
+      "hash": "fomEGUXA7hf6rodZANozhg=="
     },
     {
       "name": "DarkModeSwitch",
-      "filename": "/home/runner/work/coding-blog-boilerplate/coding-blog-boilerplate/.codedoc/node_modules/@codedoc/core/dist/es6/components/darkmode/index.js",
-      "hash": "rCJZP197GQZTK9359OVTXQ=="
+      "filename": "/home/runner/work/mark.coding.blog/mark.coding.blog/.codedoc/node_modules/@codedoc/core/dist/es6/components/darkmode/index.js",
+      "hash": "eU4MLTfBscVjP2QXFilH0A=="
     },
     {
       "name": "ConfigTransport",
-      "filename": "/home/runner/work/coding-blog-boilerplate/coding-blog-boilerplate/.codedoc/node_modules/@codedoc/core/dist/es6/transport/config.js",
-      "hash": "tV3VfOF15t1u5XdVsnT8EQ=="
+      "filename": "/home/runner/work/mark.coding.blog/mark.coding.blog/.codedoc/node_modules/@codedoc/core/dist/es6/transport/config.js",
+      "hash": "q6/YIBuLM05oKsMqaAt7lw=="
     },
     {
       "name": "ArticleCard",
-      "filename": "/home/runner/work/coding-blog-boilerplate/coding-blog-boilerplate/.codedoc/node_modules/@codedoc/coding-blog-plugin/dist/es5/components/article-card/index.js",
-      "hash": "ZFIxsKD6IU/5ZuDhD6us8A=="
+      "filename": "/home/runner/work/mark.coding.blog/mark.coding.blog/.codedoc/node_modules/@codedoc/coding-blog-plugin/dist/es5/components/article-card/index.js",
+      "hash": "AfRHm6iQKQ51wSOnxj6Lzg=="
     },
     {
       "name": "Author",
-      "filename": "/home/runner/work/coding-blog-boilerplate/coding-blog-boilerplate/.codedoc/node_modules/@codedoc/coding-blog-plugin/dist/es5/components/author/index.js",
-      "hash": "OK4ubc9p4Pms1u6h+OhSiQ=="
+      "filename": "/home/runner/work/mark.coding.blog/mark.coding.blog/.codedoc/node_modules/@codedoc/coding-blog-plugin/dist/es5/components/author/index.js",
+      "hash": "bSvE92Ajw3QQXtMZeDyzhw=="
     },
     {
       "name": "ToCPrevNext",
-      "filename": "/home/runner/work/coding-blog-boilerplate/coding-blog-boilerplate/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/prevnext/index.js",
-      "hash": "Dm8jHRiTvUujlM5pSk0bbg=="
+      "filename": "/home/runner/work/mark.coding.blog/mark.coding.blog/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/prevnext/index.js",
+      "hash": "hxFPMEoahY6Gm+g0M4Kuxg=="
     }
   ],
   "renderer": {
     "name": "getRenderer",
-    "filename": "/home/runner/work/coding-blog-boilerplate/coding-blog-boilerplate/.codedoc/node_modules/@codedoc/core/dist/es6/transport/renderer.js",
-    "hash": "9EbwueQ38jjCxtj5qPRQUg=="
+    "filename": "/home/runner/work/mark.coding.blog/mark.coding.blog/.codedoc/node_modules/@codedoc/core/dist/es6/transport/renderer.js",
+    "hash": "BVSlow51r3lppK0t+Dpycw=="
   }
 }
